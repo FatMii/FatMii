@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20FatMii&fontSize=50&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20FatMii&fontSize=50&fontColor=fff" />
 </p>
 
 <h3 align="center">Full-Stack Developer | DevOps Enthusiast | Open Source Contributor</h3>
@@ -38,18 +38,4 @@
 
 ---
 
-### 📌 Pinned Projects
-- **[nginx-ui](https://github.com/0xJacky/nginx-ui)** - Web UI for managing Nginx server configuration
-- **[owl-cli](https://github.com/FatMii/owl-cli)** - CLI tool for rapid development workflow automation
-- **[unity-builder](https://github.com/cubeofcube-dev/unity-builder)** - Unity project build pipeline optimization tool
 
----
-
-### 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FatMii&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>

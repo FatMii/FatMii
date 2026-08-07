@@ -68,8 +68,20 @@
 <h3>My latest posts</h3>
 <ul>
   <li>
+    <a href="https://juejin.cn/post/7662624197684838400">
+      <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> ECMAScript 2026 来了！使用这些新特性，JS 代码直接少一半</b>
+    </a>
+    <br/><i>using、Temporal、Error.isError 等 ES2026 新特性速览。</i>
+  </li>
+  <li>
+    <a href="https://juejin.cn/post/7662678862339571746">
+      <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 原来文本转换可以这么丝滑！UnifiedJS 实战指南来了</b>
+    </a>
+    <br/><i>UnifiedJS 从原理到实战：Markdown / HTML 管道与插件生态。</i>
+  </li>
+  <li>
     <a href="https://juejin.cn/user/3588413946594925">
-      <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Network 看 AI 流像拆盲盒？我给 Chrome 加了个「作弊面板」</b>
+      <b>Network 看 AI 流像拆盲盒？我给 Chrome 加了个「作弊面板」</b>
     </a>
     <br/><i>Chrome 扩展：在 DevTools 里调试 SSE / NDJSON / AI 对话流。</i>
   </li>
@@ -102,4 +114,5 @@
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/FatMii/FatMii?style=flat-square&labelColor=343b41"/>
   <img alt="Followers" src="https://img.shields.io/github/followers/FatMii?style=flat-square&labelColor=343b41"/>
+  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=FatMii&style=flat-square&color=blueviolet"/>
 </p>

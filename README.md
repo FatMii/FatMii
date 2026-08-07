@@ -69,13 +69,13 @@
 <ul>
   <li>
     <a href="https://juejin.cn/post/7662624197684838400">
-      <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> ECMAScript 2026 来了！使用这些新特性，JS 代码直接少一半</b>
+      <b>🔥 ECMAScript 2026 来了！使用这些新特性，JS 代码直接少一半</b>
     </a>
     <br/><i>using、Temporal、Error.isError 等 ES2026 新特性速览。</i>
   </li>
   <li>
     <a href="https://juejin.cn/post/7662678862339571746">
-      <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 原来文本转换可以这么丝滑！UnifiedJS 实战指南来了</b>
+      <b>🔥 原来文本转换可以这么丝滑！UnifiedJS 实战指南来了</b>
     </a>
     <br/><i>UnifiedJS 从原理到实战：Markdown / HTML 管道与插件生态。</i>
   </li>

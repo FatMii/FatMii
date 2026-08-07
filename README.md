@@ -108,10 +108,6 @@
 
 ------------
 <p align="center">
-  Style inspired by <a href="https://github.com/thmsgbrt">thmsgbrt</a> ·
-  <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">How the original auto-updates</a>
-</p>
-<p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/FatMii/FatMii?style=flat-square&labelColor=343b41"/>
   <img alt="Followers" src="https://img.shields.io/github/followers/FatMii?style=flat-square&labelColor=343b41"/>
   <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=FatMii&style=flat-square&color=blueviolet"/>

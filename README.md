@@ -68,6 +68,12 @@
 <h3>My latest posts</h3>
 <ul>
   <li>
+    <a href="https://juejin.cn/post/7672224177785995298">
+      <b>🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂</b>
+    </a>
+    <br/><i>Chrome 扩展：在 DevTools 里调试 SSE / NDJSON / AI 对话流。</i>
+  </li>
+  <li>
     <a href="https://juejin.cn/post/7662624197684838400">
       <b>🔥 ECMAScript 2026 来了！使用这些新特性，JS 代码直接少一半</b>
     </a>
@@ -78,12 +84,6 @@
       <b>🔥 原来文本转换可以这么丝滑！UnifiedJS 实战指南来了</b>
     </a>
     <br/><i>UnifiedJS 从原理到实战：Markdown / HTML 管道与插件生态。</i>
-  </li>
-  <li>
-    <a href="https://juejin.cn/user/3588413946594925">
-      <b>Network 看 AI 流像拆盲盒？我给 Chrome 加了个「作弊面板」</b>
-    </a>
-    <br/><i>Chrome 扩展：在 DevTools 里调试 SSE / NDJSON / AI 对话流。</i>
   </li>
   <li>
     <a href="https://juejin.cn/user/3588413946594925">

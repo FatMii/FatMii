@@ -43,10 +43,10 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/FatMii/sse-devtools-panel"><b>SSE DevTools Panel</b></a><br/><sub>Chrome DevTools panel for SSE / EventSource / NDJSON</sub></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/FatMii/Design-Mode"><b>Design Mode</b></a><br/><sub>Browser design-mode experiments</sub></td>

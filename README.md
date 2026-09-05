@@ -17,15 +17,21 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Chrome Extension" src="https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -37,7 +43,6 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -46,21 +51,18 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/FatMii/Design-Mode"><b>Design Mode</b></a><br/><sub>Browser design-mode experiments</sub></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/Design-Mode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/Design-Mode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/FatMii/Design-Mode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FatMii/Design-Mode?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/FatMii/ai-lsp-demo"><b>AI LSP Demo</b></a><br/><sub>Minimal LSP demo: definition / hover / completion + AI explain</sub></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/ai-lsp-demo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/ai-lsp-demo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/FatMii/ai-lsp-demo?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/FatMii/webMcp-demo"><b>webMcp Demo</b></a><br/><sub>Web MCP exploration & demos</sub></td>
+      <td><a href="https://github.com/FatMii/webMcp-demo"><b>WebMCP Demo</b></a><br/><sub>Web MCP exploration & demos</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/webMcp-demo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/webMcp-demo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/FatMii/webMcp-demo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FatMii/webMcp-demo?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>

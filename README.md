@@ -70,6 +70,18 @@
 <h3>My latest posts</h3>
 <ul>
   <li>
+    <a href="https://juejin.cn/post/7682217734722027558">
+      <b>🔥 面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？</b>
+    </a>
+    <br/><i>流式 Markdown：延迟渲染、remend 补全、stable / streaming 增量渲染，减少标签截断闪烁。</i>
+  </li>
+  <li>
+    <a href="https://juejin.cn/post/7682046779555315763">
+      <b>🔥 首屏 Banner 压到 40KB，LCP 还是 4 秒？原来一直搞错了最大渲染元素</b>
+    </a>
+    <br/><i>LCP 面试坑：面积计算、候选元素筛选与动态更新，别再只优化 Banner。</i>
+  </li>
+  <li>
     <a href="https://juejin.cn/post/7672224177785995298">
       <b>🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂</b>
     </a>

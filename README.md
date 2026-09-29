@@ -47,6 +47,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/FatMii/nacos-web-config"><b>Nacos Web Config</b></a><br/><sub>Push Nacos JSON configs to the browser over HTTP/SSE</sub></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/nacos-web-config?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/nacos-web-config?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/FatMii/nacos-web-config?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/FatMii/sse-devtools-panel"><b>SSE DevTools Panel</b></a><br/><sub>Chrome DevTools panel for SSE / EventSource / NDJSON</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/sse-devtools-panel?style=flat-square&labelColor=343b41&v=20260811"/></td>
@@ -69,6 +75,18 @@
 
 <h3>My latest posts</h3>
 <ul>
+  <li>
+    <a href="https://juejin.cn/post/7687855879103021108">
+      <b>🔥 上线 24 小时，13% 的付费团队连夜换到 Jev：它到底什么来头？</b>
+    </a>
+    <br/><i>判别式 AI：只做 Choice / Score / Noul 判断不写文章，又快又便宜，适合 Agent 分流。</i>
+  </li>
+  <li>
+    <a href="https://juejin.cn/post/7686043275371708450">
+      <b>🔥 2026 年了，十万级表格还只会「虚拟滚动」？难怪你的页面照样卡顿</b>
+    </a>
+    <br/><i>大数据表格：虚拟滚动不够，Worker 计算 + Set 状态推导 + 分层架构才治本。</i>
+  </li>
   <li>
     <a href="https://juejin.cn/post/7682217734722027558">
       <b>🔥 面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？</b>

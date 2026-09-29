@@ -47,7 +47,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/FatMii/nacos-web-config"><b>Nacos Web Config</b></a><br/><sub>Push Nacos JSON configs to the browser over HTTP/SSE</sub></td>
+      <td><a href="https://github.com/FatMii/nacos-web-config"><b>Nacos Web Config</b></a><br/><sub>Whitelisted Nacos JSON configs over HTTP/SSE to the browser</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/FatMii/nacos-web-config?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/FatMii/nacos-web-config?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/FatMii/nacos-web-config?style=flat-square&labelColor=343b41"/></td>

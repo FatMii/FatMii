@@ -76,6 +76,18 @@
 <h3>My latest posts</h3>
 <ul>
   <li>
+    <a href="https://juejin.cn/post/7694205589761441807">
+      <b>🔥 为什么大厂 RAG 从不用纯向量检索？</b>
+    </a>
+    <br/><i>BM25 稀疏检索原理与 k1/b 调参，混合检索（BM25 + 向量 + 重排）才是生产级 RAG 标配。</i>
+  </li>
+  <li>
+    <a href="https://juejin.cn/post/7693757919828901923">
+      <b>🔥 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了</b>
+    </a>
+    <br/><i>Spring Boot starter + 零依赖前端 SDK：白名单 Nacos 配置经同源 SSE 实时、只读推到浏览器。</i>
+  </li>
+  <li>
     <a href="https://juejin.cn/post/7687855879103021108">
       <b>🔥 上线 24 小时，13% 的付费团队连夜换到 Jev：它到底什么来头？</b>
     </a>

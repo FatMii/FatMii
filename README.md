@@ -6,7 +6,7 @@
   </br>
   I build developer tools, AI chat UIs, and things that make debugging a little less painful.
   </br>
-  掘金：<a href="https://juejin.cn/user/3588413946594925"><b>秋天的一阵风</b></a>
+  掘金：<a href="https://juejin.cn/user/3588413946594925"><b>FatMii</b></a>
 </p>
 
 <h3>Things I code with</h3>
@@ -133,7 +133,7 @@
     <a href="https://juejin.cn/user/3588413946594925">
       <b>更多文章 → 掘金主页</b>
     </a>
-    <br/><i>秋天的一阵风 · 前端 / 工具 / 踩坑记录</i>
+    <br/><i>FatMii · 前端 / 工具 / 踩坑记录</i>
   </li>
 </ul>
 
